@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Set up your vscode editor to be pretty like mine!
+💻 [gist link](https://gist.github.com/kevin-wynn/19f71a484a136668db41ca200a8895ae)
+
 <!--
 **kevin-wynn/kevin-wynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
