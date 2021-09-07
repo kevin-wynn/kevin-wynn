@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have moved off Github to my own personal GitLab instance. This is just what remains of my forks.
+I have moved off Github to my own personal GitLab instance.
 
 [Pretty VSCode stuff](https://gist.github.com/kevin-wynn/19f71a484a136668db41ca200a8895ae)
 
