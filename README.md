@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-I'm back baby! And I'm moving to Germany!
+I'm back baby!
 
 ## What's been going on?
-
-Done rebuilding [robo house](https://robo-house.com)
-- Working on blog posts
 
 Building [studio wynn](https://studiowynn.de)
 
 Starting [wynn publishers](https://wynnpublishers.com)
 
-Contemplating building a news source aggregator that compiles a weekly "Sunday Paper" to email me top news of the week.
+Contemplating building a news source aggregator that compiles a weekly "Sunday Paper" to email me top news of the week...
 
 ## Other Stuff
 
