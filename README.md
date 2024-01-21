@@ -4,15 +4,13 @@ I'm back baby!
 
 ## What's been going on?
 
-Going to start learning [rust](https://www.rust-lang.org)
+More about me at [robo-house.com](https://robo-house.com)
+
+[The Daily Paper](https://news.wynn.media) is now live for daily news aggregation, new features coming
 
 ~Building [studio wynn](https://studiowynn.de)~ On hold for now
 
 ~Starting [wynn publishers](https://wynnpublishers.com)~ Also on hold for now
-
-~Contemplating building a news source aggregator that compiles a weekly "Sunday Paper" to email me top news of the week...~
-
-[The Daily Paper](https://news.wynn.media) is now live. I'll add more news sources and allow customization of this at a later date.
 
 ## Other Stuff
 
