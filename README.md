@@ -2,6 +2,8 @@
 
 I'm back baby!
 
+Believer in the [GyShiDo Movement](https://gyshido.com/)
+
 ## What's been going on?
 
 More about me at [robo-house.com](https://robo-house.com)
