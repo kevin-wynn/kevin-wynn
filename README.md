@@ -6,13 +6,9 @@ Believer in the [GyShiDo Movement](https://gyshido.com/)
 
 ## What's been going on?
 
-More about me at [robo-house.com](https://robo-house.com)
+Building [Bad Catch](https://badcatch.co)
 
 [The Daily Paper](https://news.wynn.media) is now live for daily news aggregation, new features coming
-
-~Building [studio wynn](https://studiowynn.de)~ On hold for now
-
-~Starting [wynn publishers](https://wynnpublishers.com)~ Also on hold for now
 
 ## Other Stuff
 
